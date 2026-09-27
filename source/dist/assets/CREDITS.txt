@@ -1,0 +1,39 @@
+Campus avatar: Casual_Hoodie, Ultimate Modular Men Pack by Quaternius.
+https://quaternius.com/packs/ultimatemodularcharacters.html
+License: Creative Commons CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+Changes: selected Idle, Walk and Run clips; repackaged as embedded GLB;
+normalised scale and recoloured hoodie and trousers for the campus scene.
+
+Architecture reference: EdUHK official campus maps; user-supplied photographs;
+P&T Group Hong Kong Institute of Education project aerials;
+Hong Kong Film Services Office EdUHK location photographs.
+https://web.p-t-group.com/en/project-detail.php?projects_id=185
+https://fpf.ccidahk.gov.hk/en/location/detail.php?id=669
+Heights, setbacks and landform are visual estimates, not survey data.
+
+Gate sign lettering: outlines subset from Noto Serif CJK TC Regular.
+SIL Open Font License 1.1; see LICENSE-Noto-Serif.txt.
+https://github.com/notofonts/noto-cjk/tree/main/Serif
+Gate position/orientation and details: two user-supplied plan/photo references, September 2026.
+
+Bus: Quaternius, Lowpoly Public Transport, CC0 1.0.
+Author publication: https://opengameart.org/content/lowpoly-public-transport
+Source archive: https://opengameart.org/sites/default/files/Public%20Transport_0.zip
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Bus.obj converted to local mesh arrays, resized and recoloured for this scene.
+This is an illustrative vehicle, not a reproduction of the university's actual fleet.
+
+Film location captions: subset of Noto Sans CJK SC Regular, SIL OFL 1.1.
+See LICENSE-Noto-Sans.txt. University name stone follows user photographs
+in 修改建议0917.docx; slab, emblem, lettering, raised brick bed and plants are
+modelled geometry. Film timing, routes and portrait ending revised 20 September 2026.
+
+Film music: "Carefree" by Kevin MacLeod (incompetech.com).
+Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037
+MP3 source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Changes: 90-second excerpt, high-pass at 40 Hz, loudness normalization,
+1.2-second fade-in and 3.5-second fade-out. Original catalog: 96 BPM;
+ukulele, guitar, marimba, glockenspiel and percussion. Accessed 2026-09-20.

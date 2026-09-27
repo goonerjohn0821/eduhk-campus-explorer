@@ -1,0 +1,174 @@
+{
+  "sourceCommit": "05aadcd4e133ef026bec8346ac29d43b6b320072",
+  "sourceDirectory": "source",
+  "files": [
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "aee708c5b063ef73302021cb2de6f2fe581e7d85da9bf8101830a490649cc142"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2ab7ea639630f3533ae89cc63835f9654d9c2cf00acb35780c16d34dadcec7c6"
+    },
+    {
+      "path": "dist/app.js",
+      "sha256": "6ca6dee60a52c93a15e957db22afe669202b2dbd23dd82ff40106d6a763ee8a8"
+    },
+    {
+      "path": "dist/assets/CREDITS.txt",
+      "sha256": "ec92e01abb2a34328c402d10a0a0c879a70eeb5dd6b9878304079db96dff22bb"
+    },
+    {
+      "path": "dist/assets/LICENSE-Noto-Sans.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "dist/assets/LICENSE-Noto-Serif.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "dist/assets/bus-mesh.js",
+      "sha256": "92b3f3b7620ca95641d57ce39d60dac41bdff8b7fa3c68dcfca7eb7b316fb8bc"
+    },
+    {
+      "path": "dist/assets/campus-score.mp3",
+      "sha256": "8e0a905d75813b561393dd5b4741dd21e101c741a08a1a7884374b961a5e9060"
+    },
+    {
+      "path": "dist/assets/film-labels.otf",
+      "sha256": "dd2cb45f8b5fcd947a46c21c05710ddc1dc832fdf8cf42defc39cc5a319d8812"
+    },
+    {
+      "path": "dist/assets/student.glb",
+      "sha256": "d10339dd25ab7494a0823b11c5870be005315d5db3ee75cf93238eb4b5f6a7b8"
+    },
+    {
+      "path": "dist/bus-station.js",
+      "sha256": "b57fd4a59f41d476c7e5f2e10969f0c5f5e1b0f5ad81a924bdbce370697aa146"
+    },
+    {
+      "path": "dist/campus.js",
+      "sha256": "9db0142751e1f0cb185bed6d248e0c1593aa2e79dcd380b70eb0987fe1a9442e"
+    },
+    {
+      "path": "dist/film-app.js",
+      "sha256": "dece2ded29a58493d6b716697d05656c94b0829eead2aa2c6bcb71c3e9a47a57"
+    },
+    {
+      "path": "dist/film-character.js",
+      "sha256": "61438a00f45fca2ca952a656cb21126b9a340e6d3a532dc006e0960d3b6423d2"
+    },
+    {
+      "path": "dist/film-director.js",
+      "sha256": "974eaa2a9c93ffda07a0a9788c7b5ca4aace64674a9b8403bd2433efa467aea8"
+    },
+    {
+      "path": "dist/film-props.js",
+      "sha256": "f94c122c721bd245fd5be4d7231e77eb09aaef248e48cdc4201f44984ce63ed5"
+    },
+    {
+      "path": "dist/film-sequences.js",
+      "sha256": "d2f168a7580e27834f2c85ffcf2e3fb1b873325f868591714f8b4cc373a08416"
+    },
+    {
+      "path": "dist/film.css",
+      "sha256": "720afd92aefd49b05b42e54bc5a296dd0201ad95eab7499120a3fc85eb24757b"
+    },
+    {
+      "path": "dist/film.html",
+      "sha256": "b0dcb6daa3855f8ee71c3a50840503f8cc02673ac3ae2525d00d8a0569a735c3"
+    },
+    {
+      "path": "dist/gate-glyphs.js",
+      "sha256": "36ba060a3f2e5fc801fa23ac8170051aa2635ac7fb8d8e757bdd7ebf4c9a2bf9"
+    },
+    {
+      "path": "dist/gate.js",
+      "sha256": "74a520ca71f92ecbb8789365746475305114ab63b8c5a59ba6fbbde87beb7f02"
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "d34a91a862f130bdb568efc712aa680913dabaf2993c67c7a4d58d6134779976"
+    },
+    {
+      "path": "dist/layout.js",
+      "sha256": "396cfc4fad9f3b93f3af0f221bdde39a8e75914d6129ba04db04386793e5b484"
+    },
+    {
+      "path": "dist/monument.js",
+      "sha256": "d10c184e773bda7cfdf4700ef6b376b697dbbe2ce1e86b45d79f50fb5e6a1333"
+    },
+    {
+      "path": "dist/student.js",
+      "sha256": "f155a04d175aff7a9ebc164a3c23d169e21eba0d5d9e8056f5d576f1cb7f8766"
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "0b2f6837513bcddfe196f1d768f9e0c428b2abbcd4a40f6a8ad6894511e609a5"
+    },
+    {
+      "path": "dist/terrain.js",
+      "sha256": "911ed6f1af0d2c2e54b6446f12f0b020040ee7e9280e9d9710a3b7ff5dc4ff92"
+    },
+    {
+      "path": "dist/vendor/BufferGeometryUtils.js",
+      "sha256": "248b3e8420bd3de805ca01845c1b0cc62aa2766f3c56bdcead265e306f8e715c"
+    },
+    {
+      "path": "dist/vendor/GLTFLoader.js",
+      "sha256": "2904f2823e23d5bc1d64512bf4c0d777ac44d728d47c34a9e3d48ce8ef6b761d"
+    },
+    {
+      "path": "dist/vendor/LICENSE-three.txt",
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "dist/vendor/OrbitControls.js",
+      "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+    },
+    {
+      "path": "dist/vendor/three.core.js",
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "dist/vendor/three.module.js",
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "dist/walk-surface.js",
+      "sha256": "7235fe2bfe17045931d72f36020b4517133759c024a86e046fcf142376be35b8"
+    },
+    {
+      "path": "dist/walking.js",
+      "sha256": "c58f87a56dd58b07ff9885520180badf54858de6a701bee289ddbcdeb4e65c45"
+    },
+    {
+      "path": "film-tools/README.md",
+      "sha256": "89552241708ffc4daa46b33e535c92790a5b9b7a1be84d87eec0977dfa281a38"
+    },
+    {
+      "path": "film-tools/check-sequences.mjs",
+      "sha256": "85efffcf5bc919de477c7f387cad267fc0d7144001ddd965154eeedb3da98b2a"
+    },
+    {
+      "path": "film-tools/export-film.mjs",
+      "sha256": "54177c98bc44a076c30db49c9c702e1652c0051299a85ffd2c75c9e655259850"
+    },
+    {
+      "path": "film-tools/fonts/NotoSansCJK-labels.otf",
+      "sha256": "dd2cb45f8b5fcd947a46c21c05710ddc1dc832fdf8cf42defc39cc5a319d8812"
+    },
+    {
+      "path": "film-tools/prepare-music.py",
+      "sha256": "e77bd4bb9ac0e1b3133afa0666ac07848d009f3c3460051fee7ec52085a2aaaf"
+    },
+    {
+      "path": "film-tools/render-film.py",
+      "sha256": "82a5b9d6ef9d6442b5bf85e460d0674195dc25e36401adbb4f6ecfe6774dc22e"
+    },
+    {
+      "path": "film-tools/verify-video.py",
+      "sha256": "12cd3cbc2fb6d4c3ac2ea9449b518a86a76d0314f1aaa30e1c9e37ec3a7ef867"
+    }
+  ]
+}
